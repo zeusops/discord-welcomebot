@@ -23,13 +23,12 @@ important_links = """{0} - [Attendance, missions & statistics](https://docs.goog
 {0} - [Rules](https://docs.google.com/document/d/1DWK53LF3AjRqxZkb4qQXeBBvtSIOtamnUXyk2b6aaAs/edit?usp=sharing)
 {0} - [Zeus Guide](https://docs.google.com/document/d/1PFK__UcgmAJ1P3xBnJxeW2ow7u8bgEfM8lkpHJrLYDU/edit?usp=sharing)
 {0} - [Mission Templates (GitHub)](https://github.com/zeusops/mission-templates)
-{0} - [Mission Templates (single PBO)](https://drive.google.com/file/d/1NuDd5Z9tEmc0wCf6MhzZe697BgBig-0p/view?usp=sharing)
 {0}
 """.format(indent)
 
 mods = \
 """{0} - [Mods Default](http://steamcommunity.com/sharedfiles/filedetails/?id=754233724)
-{0} - [Mods WWII](https://steamcommunity.com/sharedfiles/filedetails/?id=1314684259)
+{0} - [Mods Lite](https://steamcommunity.com/sharedfiles/filedetails/?id=1123880053)
 {0} - [Mods Optional](https://steamcommunity.com/sharedfiles/filedetails/?id=1115077330)
 {0} - [Extra Terrain Pool](https://steamcommunity.com/sharedfiles/filedetails/?id=1424089214)
 {0}
@@ -48,6 +47,7 @@ other_links = \
 {0} - [Watch2Gether](https://www.watch2gether.com/rooms/zeusoperations-p7wbtfre05cwi65s)
 {0} - [TeamSpeak dark theme](https://www.myteamspeak.com/addons/686209af-0b66-4805-b2d7-0e990f7cb9e0)
 {0} - [TeamSpeak dark theme icons](https://drive.google.com/open?id=1b_zUlWf8tpUZijimgBK_olFxBUXNZ9V5)
+{0} - [Unofficial TeamSpeak sound pack](https://drive.google.com/open?id=1HIsPDL2cjacS8cisygiRVx6O_pJmDBDf)
 """.format(indent)
 
 client = Client()
