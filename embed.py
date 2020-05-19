@@ -1,13 +1,15 @@
 #!/usr/bin/env python3.7
-from discord import Embed, Colour, Client
+from discord import Embed, Colour, Client, NotFound
 
 from secret import TOKEN
 
 SERVERID = 235478105177718785  # Foobar
 CHANNELID = 235478105177718785  # general
+MESSAGEID = 712366202579714099
 
 # SERVERID = 219564389462704130  # Zeus Operations
 # CHANNELID = 287747328264372225  # welcome
+# MESSAGEID = 586558085179375636
 
 # zero-width space
 indent = "\u200b \u200b \u200b \u200b"
@@ -67,8 +69,13 @@ async def on_ready():
     embed.add_field(name="Other links", value=other_links,
                     inline=False)
 
-    await channel.send(content="\u200b\n**Server information**",
-                       embed=embed)
+    try:
+        message = await channel.fetch_message(MESSAGEID)
+    except NotFound:
+        await channel.send(content="\u200b\n**Server information**",
+                        embed=embed)
+    else:
+        await message.edit(embed=embed)
 
     await client.logout()
 
