@@ -25,6 +25,7 @@ important_links = """{0} - [Attendance (zeusops.com/attendance)](https://docs.go
 {0} - [Rules (zeusops.com/rules)](https://docs.google.com/document/d/1DWK53LF3AjRqxZkb4qQXeBBvtSIOtamnUXyk2b6aaAs/edit?usp=sharing)
 {0} - [Zeus Guide (zeusops.com/zeus)](https://docs.google.com/document/d/1PFK__UcgmAJ1P3xBnJxeW2ow7u8bgEfM8lkpHJrLYDU/edit?usp=sharing)
 {0} - [Mission Templates (zeusops.com/template)](https://github.com/zeusops/mission-templates)
+{0} - [Zeus Feedback Form (zeusops.com/feedback)](https://www.zeusops.com/feedback)
 {0} - [CO Meeting Notes (zeusops.com/meetings)](https://www.zeusops.com/meetings)
 {0}
 """.format(indent)
