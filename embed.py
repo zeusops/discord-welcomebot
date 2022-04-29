@@ -79,7 +79,7 @@ async def on_ready():
     else:
         await message.edit(embed=embed)
 
-    await client.logout()
+    await client.close()
 
 
 if __name__ == "__main__":
