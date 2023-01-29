@@ -41,6 +41,7 @@ mods = \
 other_links = \
 """{0} - [Website](https://www.zeusops.com/)
 {0} - [Discord (zeusops.com/discord)](https://www.zeusops.com/discord)
+{0} - [After-Action Report (AAR)](https://aar.zeusops.com/)
 {0} - [A3Units (zeusops.com/units)](https://units.arma3.com/unit/zeusops)
 {0} - [Twitter](https://twitter.com/zeusops)
 {0} - [Twitch](https://www.twitch.tv/zeusoperations)
