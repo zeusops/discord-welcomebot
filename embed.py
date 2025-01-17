@@ -26,6 +26,7 @@ important_links = """{0} - [Attendance (zeusops.com/attendance)](https://www.zeu
 {0} - [Zeus Guide (zeusops.com/zeus)](https://www.zeusops.com/zeus)
 {0} - [Mission Template (zeusops.com/template)](https://github.com/zeusops/mission-templates)
 {0} - [Zeus Feedback Form (zeusops.com/feedback)](https://www.zeusops.com/feedback)
+{0} - [HQ Feedback Form (zeusops.com/hqfeedback)](https://www.zeusops.com/hqfeedback)
 {0} - [Recruit Review Form (zeusops.com/review)](https://www.zeusops.com/review)
 {0} - [CO Meeting Notes (zeusops.com/meetings)](https://www.zeusops.com/meetings)
 {0}
@@ -49,7 +50,7 @@ other_links = \
 {0} - [PayPal](https://www.paypal.me/ZeusOperations)
 {0} - [Steam](https://steamcommunity.com/groups/zeusops)
 {0} - [Watch2Gether (zeusops.com/watch)](https://www.zeusops.com/watch)
-{0} - [TeamSpeak dark theme](https://www.myteamspeak.com/addons/686209af-0b66-4805-b2d7-0e990f7cb9e0)
+{0} - [TeamSpeak dark theme](https://www.myteamspeak.com/addons/L2FkZG9ucy82ODYyMDlhZi0wYjY2LTQ4MDUtYjJkNy0wZTk5MGY3Y2I5ZTA%3D)
 {0} - [TeamSpeak dark theme icons](https://drive.google.com/open?id=1b_zUlWf8tpUZijimgBK_olFxBUXNZ9V5)
 {0} - [Unofficial TeamSpeak sound pack](https://drive.google.com/open?id=1HIsPDL2cjacS8cisygiRVx6O_pJmDBDf)
 """.format(indent)
