@@ -1,4 +1,4 @@
-# Zeus Operations Discord welcome message bot
+# Zeusops Discord welcome message bot
 
 ![Welcome message](screenshot.png)
 
